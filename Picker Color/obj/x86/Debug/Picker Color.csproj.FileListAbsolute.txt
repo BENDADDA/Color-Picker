@@ -1,0 +1,7 @@
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\bin\Debug\Picker Color.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\bin\Debug\Picker Color.pdb
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\obj\x86\Debug\Picker_Color.Form1.resources
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\obj\x86\Debug\Picker_Color.Properties.Resources.resources
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\obj\x86\Debug\Picker Color.csproj.GenerateResource.Cache
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\obj\x86\Debug\Picker Color.exe
+c:\users\hdmi\documents\visual studio 2010\Projects\Picker Color\Picker Color\obj\x86\Debug\Picker Color.pdb
